@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Udoh-Inyene
-- 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently learning PYTHON
+- 👋 Hi, I’m @Inyeneobongudoh
+- 👀 I’m interested in MACHINE LEARNING & DEEP LEARNING 
+- 🌱 I’m currently working with PYTHON
 - 💞️ I’m looking to collaborate on MACHINE LEARNING
 - 📫 How to reach me UDOH251@GMAIL.COM
 
